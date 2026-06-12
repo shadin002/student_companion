@@ -1,4 +1,4 @@
-package com.example.student_companion_quiz_app
+package com.shadin.studentcompanionfirebase
 
 import io.flutter.embedding.android.FlutterActivity
 
